@@ -1,0 +1,148 @@
+{
+  "dialogs":[          
+{
+  "_id": "5dd780f5026076f8ad4a9403",
+  "text": "текст просто",
+  "created_at": "Tue Mar 16 2004 08:15:16 GMT+0000 (UTC)",
+  "user": {
+    "_id": "5dd780f5026076f8ad4a9403",
+    "fullname": "Hayden Tate",
+    "avatar": null
+  }
+},
+{
+  "_id": "5dd780f5026076f8ad4a9404",
+  "text": "текст 2",
+  "created_at": "Tue Mar 16 2004 08:15:16 GMT+0000 (UTC)",
+  "user": {
+    "_id": "5dd780f5026076f8ad4a9404",
+    "fullname": "Hayden Tate",
+    "avatar": null
+  }
+},
+{
+  "_id": "5dd780f5026076f8ad4a9405",
+  "text": "текст 3",
+  "created_at": "Tue Mar 16 2004 08:15:16 GMT+0000 (UTC)",
+  "user": {
+    "_id": "5dd780f5026076f8ad4a9405",
+    "fullname": "Hayden Tate",
+    "avatar": null
+  }
+}
+
+
+],
+"messages":[
+  {
+    "_id": "25e65bcfc2f4336bde92bd235",
+    "text": "Dolore laboris consequat minim minim commodo sint reprehenderit. Consequat pariatur ut eiusmod dolor ea dolor ipsum. Deserunt commodo ullamco do exercitation eu qui dolor mollit dolore dolor.",
+    "create_at": "Sun Aug 29 1993 03:44:23 GMT+0000 (UTC)",
+    "user": {
+      "_id": "25e65bcfc2f4336bde92bd235",
+      "fullname": "OnealIngram",
+      "avatar": null
+    },
+    "dialog":"5dd780f5026076f8ad4a9403"
+  },
+  {
+    "_id": "15e65bcfc84d3e5dc7e3486c0",
+    "text": "Aliquip quis do fugiat quis anim non fugiat exercitation velit adipisicing eu amet fugiat. Quis voluptate ad aliqua aute reprehenderit irure veniam. Labore irure excepteur nostrud adipisicing cupidatat elit esse reprehenderit Lorem.",
+    "create_at": "Sat Feb 25 2006 17:57:14 GMT+0000 (UTC)",
+    "user": {
+      "_id": "15e65bcfc84d3e5dc7e3486c0",
+      "fullname": "HatfieldYang",
+      "avatar": null
+    },
+    "dialog":"5dd780f5026076f8ad4a9403"
+  },
+  {
+    "_id": "45e65bcfca3dc570768471d17",
+    "text": "Non anim ut labore eiusmod. Duis laborum laboris ullamco tempor. Duis aliquip sint enim commodo dolor cupidatat pariatur in consequat aute.",
+    "create_at": "Mon Sep 28 1981 23:25:24 GMT+0000 (UTC)",
+    "user": {
+      "_id": "45e65bcfca3dc570768471d17",
+      "fullname": "ChrystalCurry",
+      "avatar": null
+    },
+    "dialog":"5dd780f5026076f8ad4a9403"
+  },
+  {
+    "_id": "15e65bcfc196e372541a4b496",
+    "text": "Ex magna dolor est velit duis cillum. Sit elit sunt do aliquip Lorem tempor ut culpa voluptate excepteur quis velit officia officia. Reprehenderit laboris in ad dolor et minim ex aliquip exercitation enim consectetur.",
+    "create_at": "Mon Sep 09 1985 00:13:28 GMT+0000 (UTC)",
+    "user": {
+      "_id": "15e65bcfc196e372541a4b496",
+      "fullname": "DukeWise",
+      "avatar": null
+    },
+    "dialog":"5dd780f5026076f8ad4a9403"
+  },
+  {
+    "_id": "45e65bcfcbb99f8a3172b2766",
+    "text": "Mollit excepteur irure non ipsum aliqua proident et adipisicing aliqua exercitation fugiat proident nulla aliquip. Ea commodo do commodo deserunt duis aute culpa Lorem sint tempor aliquip proident ea laboris. Veniam nisi id occaecat officia sunt duis sit enim excepteur laborum irure qui commodo nulla.",
+    "create_at": "Sun Aug 11 2002 07:57:47 GMT+0000 (UTC)",
+    "user": {
+      "_id": "45e65bcfcbb99f8a3172b2766",
+      "fullname": "JasmineRomero",
+      "avatar": null
+    },
+    "dialog":"5dd780f5026076f8ad4a9403"
+  },
+  {
+    "_id": "35e65bcfc22caed291ef5d53a",
+    "text": "Culpa officia deserunt deserunt dolor adipisicing excepteur eiusmod elit. Est magna culpa enim id nisi reprehenderit id. Tempor incididunt eu tempor ut mollit consectetur sit officia nulla laboris voluptate labore ea pariatur.",
+    "create_at": "Mon Feb 05 1990 03:14:45 GMT+0000 (UTC)",
+    "user": {
+      "_id": "35e65bcfc22caed291ef5d53a",
+      "fullname": "TerrieWeber",
+      "avatar": null
+    },
+    "dialog":"5dd780f5026076f8ad4a9403"
+  },
+  {
+    "_id": "35e65bcfc986e9e0b9cb81a8c",
+    "text": "Tempor adipisicing ut ipsum elit nulla aute. Cillum esse fugiat sint incididunt labore ad esse qui. Voluptate qui officia fugiat ut aliqua aute sit deserunt est reprehenderit esse labore do aute.",
+    "create_at": "Wed Jan 24 1990 11:04:25 GMT+0000 (UTC)",
+    "user": {
+      "_id": "35e65bcfc986e9e0b9cb81a8c",
+      "fullname": "MonicaShannon",
+      "avatar": null
+    },
+    "dialog":"5dd780f5026076f8ad4a9403"
+  },
+  {
+    "_id": "35e65bcfc5ff33e86a71fdd74",
+    "text": "Ut dolore cillum excepteur voluptate sit enim id reprehenderit tempor. Exercitation eu voluptate excepteur occaecat velit pariatur elit. Proident amet in commodo duis dolor consectetur irure aute consequat anim.",
+    "create_at": "Sat Dec 10 2011 23:41:06 GMT+0000 (UTC)",
+    "user": {
+      "_id": "35e65bcfc5ff33e86a71fdd74",
+      "fullname": "TamaraGarza",
+      "avatar": null
+    },
+    "dialog":"5dd780f5026076f8ad4a9403"
+  },
+  {
+    "_id": "35e65bcfc631b3a85ca855e0f",
+    "text": "Ipsum eiusmod reprehenderit sint ea excepteur velit magna nisi eu tempor ea. Esse aliquip sint exercitation amet mollit tempor sunt sunt. Veniam exercitation exercitation aliquip sint minim id et enim reprehenderit duis aliqua.",
+    "create_at": "Sat Nov 02 1996 01:10:25 GMT+0000 (UTC)",
+    "user": {
+      "_id": "35e65bcfc631b3a85ca855e0f",
+      "fullname": "AudreyGreene",
+      "avatar": null
+    },
+    "dialog":"5dd780f5026076f8ad4a9403"
+  },
+  {
+    "_id": "15e65bcfc74badcd2c2644729",
+    "text": "Ex ut tempor ullamco qui veniam enim proident fugiat laboris aliquip. Proident sint elit in ad ea quis fugiat occaecat culpa cupidatat deserunt ex. Lorem dolor commodo excepteur ipsum mollit nostrud cillum sunt qui.",
+    "create_at": "Wed Aug 10 1977 19:18:50 GMT+0000 (UTC)",
+    "user": {
+      "_id": "15e65bcfc74badcd2c2644729",
+      "fullname": "CrawfordChristensen",
+      "avatar": null
+    },
+    "dialog":"5dd780f5026076f8ad4a9403"
+  }
+]
+}
